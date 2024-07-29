@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Singh</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/352a89a4-7bcd-4b8c-ae77-cb6b819a7a25)
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalgaikwad&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalgaikwad" /> </p>
 
