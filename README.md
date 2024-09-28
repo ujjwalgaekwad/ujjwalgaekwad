@@ -20,8 +20,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ujjwalgekwad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ujjwalgekwad" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwalgaekwad&show_icons=true&locale=en&layout=compact" alt="ujjwalgaekwad" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalgaekwad&show_icons=true&locale=en" alt="ujjwalgaekwad"  style="background-color: black;/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalgaekwad&show_icons=true&locale=en" alt="ujjwalgaekwad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalgaekwad&" alt="ujjwalgaekwad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalgaekwad&" alt="ujjwalgaekwad" style="background-color: black;"/></p>
