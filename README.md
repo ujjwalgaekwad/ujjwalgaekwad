@@ -1,6 +1,6 @@
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [https://github.com/ujjwalgaekwad/AI-Content-Generator](https://github.com/ujjwalgaekwad/AI-Content-Generator)
+- 🔭 I’m currently working on [AI-Content-Generator](https://github.com/ujjwalgaekwad/AI-Content-Generator)
 
 - 🌱 I’m currently learning **Java**
 
