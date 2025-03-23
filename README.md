@@ -1,5 +1,5 @@
 &nbsp;
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=Hey%2C+Nice+to+meet+you!" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fff&center=true&vCenter=true&width=435&lines=Hey%2C+Nice+to+meet+you!" alt="Typing SVG" /></h1>
 
 <h3 align="center">A passionate Software developer from India</h3>
 
