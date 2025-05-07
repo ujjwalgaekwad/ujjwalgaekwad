@@ -1,10 +1,8 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Cabin&pause=1000&color=fff&center=true&vCenter=true&width=435&lines=Hey%2C+Nice+to+meet+you!" alt="Typing SVG" /></h1>
 
-- 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **JavaScript, React**
-
-- 📫 How to reach me **ujjwalsinghgaekwad@gmail.com**
+- 🌱 I’m currently learning **Playwright**
+- 🔭 I’m currently working on MERN Stack
+- 💬 Ask me about Node.js, React, MongoDB Etc.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
