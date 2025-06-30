@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Gaekwad</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 I’m currently learning **Playwright for End-to-End Testing**
-- 💬 Ask me about **Node.js, React, MongoDB, JavaScript, TypeScript**
-
----
+- 🌱 Currently diving into **CI/CD Pipelines**
+- 🔭 Focused on building projects with the **MERN Stack**
+- 💬 Feel free to ask me about **Node.js, React, MongoDB**, and more!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +18,6 @@
   </a>
 </p>
 
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -45,7 +42,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
----
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwalgaekwad&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
