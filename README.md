@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Gaekwad</h1>
+<h1 align="center">Hi there, I'm Ujjwal</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
 - 🌱 Currently diving into **CI/CD Pipelines**
