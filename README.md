@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Ujjwal</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
-- 🌱 Currently diving into **CI/CD Pipelines**
 - 🔭 Focused on building projects with the **MERN Stack**
 - 💬 Feel free to ask me about **Node.js, React, MongoDB**, and more!
 
